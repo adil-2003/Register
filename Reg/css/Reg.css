@@ -1,0 +1,38 @@
+#demo{
+    margin-top:1px;
+    
+}
+#per{
+    border: 1px solid black;
+    height: 500px;
+ width: 1000px; 
+ padding: 50px;  
+}
+#temp{
+    border: 1px solid black;
+    height:650px;
+ width: 1000px; 
+ padding: 50px;  
+}
+#educate{
+    border: 1px solid black;
+    height:950px;
+ width: 1000px; 
+ padding: 50px; sss
+}
+#upload{
+    border: 1px solid black;
+    height:320px;
+ width: 1000px; 
+ padding: 50px;  
+}
+#sub {
+    margin-top:5px;
+    margin-bottom:5px;
+    padding-left:750px
+}
+#aadharno{
+    height: 40px;
+}
+
+
